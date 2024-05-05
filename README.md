@@ -6,7 +6,7 @@
 - We first will open the excel sheet as dataframe, then manipulate it by adding calculated fields.
 - When we finished, the table should be written into MySQL db.
 
-### Calculated Fields Meaning
+### Calculated Fields Meanings
 
 - The Financial Impact Ratio (FIR) is a calculated metric that evaluates the proportion of laid-off employees relative to the financial resources available to the company. This could give stakeholders an idea of whether the company is leveraging its financial muscle to avoid layoffs or if financial resources do not influence layoff decisions.
 - The Monthly Layoff Rate measures the average number of employees laid off each month. It is particularly useful for detecting immediate responses to market changes, economic downturns, or internal company events.
