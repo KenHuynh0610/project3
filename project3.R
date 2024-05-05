@@ -78,13 +78,12 @@ tech_layoffs_modified <- layoffs_data %>%
 # View the first few rows to confirm
 head(tech_layoffs_modified)
 
-
 #to connect to the db, input your own db info
 con <- dbConnect(RMySQL::MySQL(), 
                  host = "localhost",
                  port = 3306,
                  user = "root",
-                 password = "Leavemealone998.",
+                 password = "",
                  db = "layoff_data")
 
 
